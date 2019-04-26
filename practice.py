@@ -10,6 +10,7 @@ with open("final1output.json", "r+") as jsonFile:
 
 
     for key1, key2 in data.items():
+        variable = "mobile"
         if key1 == 'children':
             for key3 in key2:
                 for key4,key5 in key3.items():
@@ -26,7 +27,11 @@ with open("final1output.json", "r+") as jsonFile:
                                                             for key15 in key14:
                                                                 for key16,key17 in key15.items():
                                                                     if key16 == 'content':
-                                                                        key17 = h
+                                                                        key15.update({key16 : "variable"})
+                                                                        print(key15[key16])
+                                                                        print(key16)
+                                                                        print(key17)
+                                                                        
                                                                         
 
                 # for b,c in a.items():
@@ -52,6 +57,6 @@ with open("final1output.json", "r+") as jsonFile:
 #     json.dump(data, jsonFile)
 
 
-  jsonFile = open("final1output.json", "w+")
-    jsonFile.write(json.dumps(data))
-    jsonFile.close()
+# jsonFile = open("final1output.json", "w+")
+# jsonFile.write(json.dumps(data))
+# jsonFile.close()

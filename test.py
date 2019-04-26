@@ -35,7 +35,24 @@ for x, y in y.items():
                                                                                                         for key15 in key14:
                                                                                                             for key16,key17 in key15.items():
                                                                                                                 if key16 == 'content':
-                                                                                                                    key17 = h
+                                                                                                                    key15.update({key16 : h})
+                                                                                                                    key15.update({"style": {
+                                                                                                                                    "fontFamily": "Roboto",
+                                                                                                                                    "fontPostScriptName": null,
+                                                                                                                                    "fontWeight": 400,
+                                                                                                                                    "fontSize": 12.0,
+                                                                                                                                    "textAlignHorizontal": "LEFT",
+                                                                                                                                    "textAlignVertical": "TOP",
+                                                                                                                                    "letterSpacing": 0.0,
+                                                                                                                                    "lineHeightPx": 14.0625,
+                                                                                                                                    "lineHeightPercent": 100.0
+                                                                                                                                }})
+                                            
+                                            jsonFile = open("final1output.json", "w+")
+                                            jsonFile.write(json.dumps(data))
+                                            jsonFile.close()
+                                                                                                        
+                                                                                                                     
     
 
 
