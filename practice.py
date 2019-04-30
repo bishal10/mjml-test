@@ -3,7 +3,7 @@
 import json
 
 
-with open("final1output.json", "r+") as jsonFile:
+with open("base1output.json", "r+") as jsonFile:
     data = json.load(jsonFile)
     jsonFile.close()
 
@@ -27,10 +27,12 @@ with open("final1output.json", "r+") as jsonFile:
                                                             for key15 in key14:
                                                                 for key16,key17 in key15.items():
                                                                     if key16 == 'content':
-                                                                        key15.update({key16 : "variable"})
-                                                                        print(key15[key16])
-                                                                        print(key16)
-                                                                        print(key17)
+                                                                        key15[key16] = variable
+                                                                        # print(key15[key16])
+                                                                        
+
+                                                                        
+                                                                        
                                                                         
                                                                         
 
@@ -57,6 +59,6 @@ with open("final1output.json", "r+") as jsonFile:
 #     json.dump(data, jsonFile)
 
 
-# jsonFile = open("final1output.json", "w+")
+# jsonFile = open("base1output.json", "w+")
 # jsonFile.write(json.dumps(data))
 # jsonFile.close()
