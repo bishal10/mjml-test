@@ -1,0 +1,1570 @@
+{
+    "document": {
+        "id": "0:0",
+        "name": "Document",
+        "type": "DOCUMENT",
+        "children": [
+            {
+                "id": "0:1",
+                "name": "Page 1",
+                "type": "CANVAS",
+                "children": [
+                    {
+                        "id": "0:2",
+                        "name": "Mobile",
+                        "type": "FRAME",
+                        "blendMode": "PASS_THROUGH",
+                        "children": [
+                            {
+                                "id": "0:3",
+                                "name": "body",
+                                "type": "RECTANGLE",
+                                "blendMode": "PASS_THROUGH",
+                                "absoluteBoundingBox": {
+                                    "x": -371.0,
+                                    "y": -287.0,
+                                    "width": 320.0,
+                                    "height": 723.0
+                                },
+                                "constraints": {
+                                    "vertical": "TOP",
+                                    "horizontal": "LEFT"
+                                },
+                                "fills": [
+                                    {
+                                        "blendMode": "NORMAL",
+                                        "type": "SOLID",
+                                        "color": {
+                                            "r": 0.1764705926179886,
+                                            "g": 0.20392157137393951,
+                                            "b": 0.2705882489681244,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "strokes": [],
+                                "strokeWeight": 0.0,
+                                "strokeAlign": "CENTER",
+                                "exportSettings": [],
+                                "effects": []
+                            },
+                            {
+                                "id": "0:4",
+                                "name": "section-1",
+                                "type": "GROUP",
+                                "blendMode": "PASS_THROUGH",
+                                "children": [
+                                    {
+                                        "id": "0:5",
+                                        "name": "container",
+                                        "type": "RECTANGLE",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -371.0,
+                                            "y": -287.0,
+                                            "width": 320.0,
+                                            "height": 70.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": []
+                                    },
+                                    {
+                                        "id": "0:12",
+                                        "name": "section1-logo",
+                                        "type": "BOOLEAN_OPERATION",
+                                        "blendMode": "PASS_THROUGH",
+                                        "booleanOperation": "SUBTRACT",
+                                        "children": [
+                                            {
+                                                "id": "0:8",
+                                                "name": "Exclude",
+                                                "type": "BOOLEAN_OPERATION",
+                                                "blendMode": "PASS_THROUGH",
+                                                "booleanOperation": "EXCLUDE",
+                                                "children": [
+                                                    {
+                                                        "id": "0:6",
+                                                        "name": "Path",
+                                                        "type": "VECTOR",
+                                                        "blendMode": "PASS_THROUGH",
+                                                        "absoluteBoundingBox": {
+                                                            "x": -226.0,
+                                                            "y": -267.0,
+                                                            "width": 30.0,
+                                                            "height": 30.0
+                                                        },
+                                                        "constraints": {
+                                                            "vertical": "TOP",
+                                                            "horizontal": "LEFT"
+                                                        },
+                                                        "fills": [
+                                                            {
+                                                                "blendMode": "NORMAL",
+                                                                "type": "SOLID",
+                                                                "color": {
+                                                                    "r": 0.8549019694328308,
+                                                                    "g": 0.8549019694328308,
+                                                                    "b": 0.8549019694328308,
+                                                                    "a": 1.0
+                                                                }
+                                                            }
+                                                        ],
+                                                        "strokes": [],
+                                                        "strokeWeight": 0.0,
+                                                        "strokeAlign": "CENTER",
+                                                        "exportSettings": [],
+                                                        "effects": []
+                                                    },
+                                                    {
+                                                        "id": "0:7",
+                                                        "name": "Path",
+                                                        "type": "VECTOR",
+                                                        "blendMode": "PASS_THROUGH",
+                                                        "absoluteBoundingBox": {
+                                                            "x": -214.69290161132812,
+                                                            "y": -264.2901611328125,
+                                                            "width": 12.97740364074707,
+                                                            "height": 4.986055850982666
+                                                        },
+                                                        "constraints": {
+                                                            "vertical": "TOP",
+                                                            "horizontal": "LEFT"
+                                                        },
+                                                        "fills": [
+                                                            {
+                                                                "blendMode": "NORMAL",
+                                                                "type": "SOLID",
+                                                                "color": {
+                                                                    "r": 0.8549019694328308,
+                                                                    "g": 0.8549019694328308,
+                                                                    "b": 0.8549019694328308,
+                                                                    "a": 1.0
+                                                                }
+                                                            }
+                                                        ],
+                                                        "strokes": [],
+                                                        "strokeWeight": 0.0,
+                                                        "strokeAlign": "CENTER",
+                                                        "exportSettings": [],
+                                                        "effects": []
+                                                    },
+                                                    {
+                                                        "id": "0:9",
+                                                        "name": "Path",
+                                                        "type": "VECTOR",
+                                                        "blendMode": "PASS_THROUGH",
+                                                        "absoluteBoundingBox": {
+                                                            "x": -223.51931762695312,
+                                                            "y": -259.88763427734375,
+                                                            "width": 1.602879285812378,
+                                                            "height": 3.9097445011138916
+                                                        },
+                                                        "constraints": {
+                                                            "vertical": "TOP",
+                                                            "horizontal": "LEFT"
+                                                        },
+                                                        "fills": [
+                                                            {
+                                                                "blendMode": "NORMAL",
+                                                                "type": "SOLID",
+                                                                "color": {
+                                                                    "r": 0.8549019694328308,
+                                                                    "g": 0.8549019694328308,
+                                                                    "b": 0.8549019694328308,
+                                                                    "a": 1.0
+                                                                }
+                                                            }
+                                                        ],
+                                                        "strokes": [],
+                                                        "strokeWeight": 0.0,
+                                                        "strokeAlign": "CENTER",
+                                                        "exportSettings": [],
+                                                        "effects": []
+                                                    },
+                                                    {
+                                                        "id": "0:10",
+                                                        "name": "Path",
+                                                        "type": "VECTOR",
+                                                        "blendMode": "PASS_THROUGH",
+                                                        "absoluteBoundingBox": {
+                                                            "x": -221.56982421875,
+                                                            "y": -259.078125,
+                                                            "width": 23.126399993896484,
+                                                            "height": 19.5561580657959
+                                                        },
+                                                        "constraints": {
+                                                            "vertical": "TOP",
+                                                            "horizontal": "LEFT"
+                                                        },
+                                                        "fills": [
+                                                            {
+                                                                "blendMode": "NORMAL",
+                                                                "type": "SOLID",
+                                                                "color": {
+                                                                    "r": 0.8549019694328308,
+                                                                    "g": 0.8549019694328308,
+                                                                    "b": 0.8549019694328308,
+                                                                    "a": 1.0
+                                                                }
+                                                            }
+                                                        ],
+                                                        "strokes": [],
+                                                        "strokeWeight": 0.0,
+                                                        "strokeAlign": "CENTER",
+                                                        "exportSettings": [],
+                                                        "effects": []
+                                                    }
+                                                ],
+                                                "absoluteBoundingBox": {
+                                                    "x": -226.0,
+                                                    "y": -267.0,
+                                                    "width": 100.0,
+                                                    "height": 100.0
+                                                },
+                                                "constraints": {
+                                                    "vertical": "TOP",
+                                                    "horizontal": "LEFT"
+                                                },
+                                                "fills": [
+                                                    {
+                                                        "blendMode": "NORMAL",
+                                                        "type": "SOLID",
+                                                        "color": {
+                                                            "r": 0.8549019694328308,
+                                                            "g": 0.8549019694328308,
+                                                            "b": 0.8549019694328308,
+                                                            "a": 1.0
+                                                        }
+                                                    }
+                                                ],
+                                                "strokes": [],
+                                                "strokeWeight": 0.0,
+                                                "strokeAlign": "CENTER",
+                                                "exportSettings": [],
+                                                "effects": []
+                                            },
+                                            {
+                                                "id": "0:11",
+                                                "name": "Path",
+                                                "type": "VECTOR",
+                                                "blendMode": "PASS_THROUGH",
+                                                "absoluteBoundingBox": {
+                                                    "x": -204.4884490966797,
+                                                    "y": -254.41505432128906,
+                                                    "width": 3.3396337032318115,
+                                                    "height": 3.4556350708007812
+                                                },
+                                                "constraints": {
+                                                    "vertical": "TOP",
+                                                    "horizontal": "LEFT"
+                                                },
+                                                "fills": [
+                                                    {
+                                                        "blendMode": "NORMAL",
+                                                        "type": "SOLID",
+                                                        "color": {
+                                                            "r": 0.8549019694328308,
+                                                            "g": 0.8549019694328308,
+                                                            "b": 0.8549019694328308,
+                                                            "a": 1.0
+                                                        }
+                                                    }
+                                                ],
+                                                "strokes": [],
+                                                "strokeWeight": 0.0,
+                                                "strokeAlign": "CENTER",
+                                                "exportSettings": [],
+                                                "effects": []
+                                            },
+                                            {
+                                                "id": "0:13",
+                                                "name": "Shape",
+                                                "type": "VECTOR",
+                                                "blendMode": "PASS_THROUGH",
+                                                "absoluteBoundingBox": {
+                                                    "x": -219.13668823242188,
+                                                    "y": -252.3748016357422,
+                                                    "width": 16.589303970336914,
+                                                    "height": 9.710701942443848
+                                                },
+                                                "constraints": {
+                                                    "vertical": "TOP",
+                                                    "horizontal": "LEFT"
+                                                },
+                                                "fills": [
+                                                    {
+                                                        "blendMode": "NORMAL",
+                                                        "type": "SOLID",
+                                                        "color": {
+                                                            "r": 0.8549019694328308,
+                                                            "g": 0.8549019694328308,
+                                                            "b": 0.8549019694328308,
+                                                            "a": 1.0
+                                                        }
+                                                    }
+                                                ],
+                                                "strokes": [],
+                                                "strokeWeight": 0.0,
+                                                "strokeAlign": "CENTER",
+                                                "exportSettings": [],
+                                                "effects": []
+                                            }
+                                        ],
+                                        "absoluteBoundingBox": {
+                                            "x": -226.0,
+                                            "y": -267.0,
+                                            "width": 30.0,
+                                            "height": 30.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [
+                                            {
+                                                "blendMode": "NORMAL",
+                                                "type": "SOLID",
+                                                "color": {
+                                                    "r": 1.0,
+                                                    "g": 1.0,
+                                                    "b": 1.0,
+                                                    "a": 1.0
+                                                }
+                                            }
+                                        ],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": []
+                                    }
+                                ],
+                                "absoluteBoundingBox": {
+                                    "x": -371.0,
+                                    "y": -287.0,
+                                    "width": 320.0,
+                                    "height": 70.0
+                                },
+                                "constraints": {
+                                    "vertical": "TOP",
+                                    "horizontal": "LEFT"
+                                },
+                                "clipsContent": false,
+                                "background": [
+                                    {
+                                        "blendMode": "NORMAL",
+                                        "visible": false,
+                                        "type": "SOLID",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "backgroundColor": {
+                                    "r": 0.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.0
+                                },
+                                "exportSettings": [],
+                                "effects": []
+                            },
+                            {
+                                "id": "0:14",
+                                "name": "section-2",
+                                "type": "GROUP",
+                                "blendMode": "PASS_THROUGH",
+                                "children": [
+                                    {
+                                        "id": "0:15",
+                                        "name": "container",
+                                        "type": "RECTANGLE",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -371.0,
+                                            "y": -217.0,
+                                            "width": 320.0,
+                                            "height": 198.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": []
+                                    },
+                                    {
+                                        "id": "0:16",
+                                        "name": "image",
+                                        "type": "RECTANGLE",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -351.0,
+                                            "y": -217.0,
+                                            "width": 280.0,
+                                            "height": 198.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [
+                                            {
+                                                "opacity": 0.15000000596046448,
+                                                "blendMode": "NORMAL",
+                                                "type": "SOLID",
+                                                "color": {
+                                                    "r": 1.0,
+                                                    "g": 1.0,
+                                                    "b": 1.0,
+                                                    "a": 1.0
+                                                }
+                                            }
+                                        ],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": [],
+                                        "cornerRadius": 16.0
+                                    },
+                                    {
+                                        "id": "0:23",
+                                        "name": "section2-logo",
+                                        "type": "BOOLEAN_OPERATION",
+                                        "blendMode": "PASS_THROUGH",
+                                        "booleanOperation": "SUBTRACT",
+                                        "children": [
+                                            {
+                                                "id": "0:19",
+                                                "name": "Exclude",
+                                                "type": "BOOLEAN_OPERATION",
+                                                "blendMode": "PASS_THROUGH",
+                                                "booleanOperation": "EXCLUDE",
+                                                "children": [
+                                                    {
+                                                        "id": "0:17",
+                                                        "name": "Path",
+                                                        "type": "VECTOR",
+                                                        "blendMode": "PASS_THROUGH",
+                                                        "absoluteBoundingBox": {
+                                                            "x": -260.4117736816406,
+                                                            "y": -167.49998474121094,
+                                                            "width": 98.82353210449219,
+                                                            "height": 99.0
+                                                        },
+                                                        "constraints": {
+                                                            "vertical": "TOP",
+                                                            "horizontal": "LEFT"
+                                                        },
+                                                        "fills": [
+                                                            {
+                                                                "blendMode": "NORMAL",
+                                                                "type": "SOLID",
+                                                                "color": {
+                                                                    "r": 0.8549019694328308,
+                                                                    "g": 0.8549019694328308,
+                                                                    "b": 0.8549019694328308,
+                                                                    "a": 1.0
+                                                                }
+                                                            }
+                                                        ],
+                                                        "strokes": [],
+                                                        "strokeWeight": 0.0,
+                                                        "strokeAlign": "CENTER",
+                                                        "exportSettings": [],
+                                                        "effects": []
+                                                    },
+                                                    {
+                                                        "id": "0:18",
+                                                        "name": "Path",
+                                                        "type": "VECTOR",
+                                                        "blendMode": "PASS_THROUGH",
+                                                        "absoluteBoundingBox": {
+                                                            "x": -223.16488647460938,
+                                                            "y": -158.55751037597656,
+                                                            "width": 42.74909591674805,
+                                                            "height": 16.4539852142334
+                                                        },
+                                                        "constraints": {
+                                                            "vertical": "TOP",
+                                                            "horizontal": "LEFT"
+                                                        },
+                                                        "fills": [
+                                                            {
+                                                                "blendMode": "NORMAL",
+                                                                "type": "SOLID",
+                                                                "color": {
+                                                                    "r": 0.8549019694328308,
+                                                                    "g": 0.8549019694328308,
+                                                                    "b": 0.8549019694328308,
+                                                                    "a": 1.0
+                                                                }
+                                                            }
+                                                        ],
+                                                        "strokes": [],
+                                                        "strokeWeight": 0.0,
+                                                        "strokeAlign": "CENTER",
+                                                        "exportSettings": [],
+                                                        "effects": []
+                                                    },
+                                                    {
+                                                        "id": "0:20",
+                                                        "name": "Path",
+                                                        "type": "VECTOR",
+                                                        "blendMode": "PASS_THROUGH",
+                                                        "absoluteBoundingBox": {
+                                                            "x": -252.24012756347656,
+                                                            "y": -144.0292205810547,
+                                                            "width": 5.2800726890563965,
+                                                            "height": 12.902156829833984
+                                                        },
+                                                        "constraints": {
+                                                            "vertical": "TOP",
+                                                            "horizontal": "LEFT"
+                                                        },
+                                                        "fills": [
+                                                            {
+                                                                "blendMode": "NORMAL",
+                                                                "type": "SOLID",
+                                                                "color": {
+                                                                    "r": 0.8549019694328308,
+                                                                    "g": 0.8549019694328308,
+                                                                    "b": 0.8549019694328308,
+                                                                    "a": 1.0
+                                                                }
+                                                            }
+                                                        ],
+                                                        "strokes": [],
+                                                        "strokeWeight": 0.0,
+                                                        "strokeAlign": "CENTER",
+                                                        "exportSettings": [],
+                                                        "effects": []
+                                                    },
+                                                    {
+                                                        "id": "0:21",
+                                                        "name": "Path",
+                                                        "type": "VECTOR",
+                                                        "blendMode": "PASS_THROUGH",
+                                                        "absoluteBoundingBox": {
+                                                            "x": -245.81825256347656,
+                                                            "y": -141.3577880859375,
+                                                            "width": 76.18108367919922,
+                                                            "height": 64.53531646728516
+                                                        },
+                                                        "constraints": {
+                                                            "vertical": "TOP",
+                                                            "horizontal": "LEFT"
+                                                        },
+                                                        "fills": [
+                                                            {
+                                                                "blendMode": "NORMAL",
+                                                                "type": "SOLID",
+                                                                "color": {
+                                                                    "r": 0.8549019694328308,
+                                                                    "g": 0.8549019694328308,
+                                                                    "b": 0.8549019694328308,
+                                                                    "a": 1.0
+                                                                }
+                                                            }
+                                                        ],
+                                                        "strokes": [],
+                                                        "strokeWeight": 0.0,
+                                                        "strokeAlign": "CENTER",
+                                                        "exportSettings": [],
+                                                        "effects": []
+                                                    }
+                                                ],
+                                                "absoluteBoundingBox": {
+                                                    "x": -260.4117736816406,
+                                                    "y": -167.49998474121094,
+                                                    "width": 98.82353210449219,
+                                                    "height": 99.0
+                                                },
+                                                "constraints": {
+                                                    "vertical": "TOP",
+                                                    "horizontal": "LEFT"
+                                                },
+                                                "fills": [
+                                                    {
+                                                        "blendMode": "NORMAL",
+                                                        "type": "SOLID",
+                                                        "color": {
+                                                            "r": 0.8549019694328308,
+                                                            "g": 0.8549019694328308,
+                                                            "b": 0.8549019694328308,
+                                                            "a": 1.0
+                                                        }
+                                                    }
+                                                ],
+                                                "strokes": [],
+                                                "strokeWeight": 0.0,
+                                                "strokeAlign": "CENTER",
+                                                "exportSettings": [],
+                                                "effects": []
+                                            },
+                                            {
+                                                "id": "0:22",
+                                                "name": "Path",
+                                                "type": "VECTOR",
+                                                "blendMode": "PASS_THROUGH",
+                                                "absoluteBoundingBox": {
+                                                    "x": -189.55020141601562,
+                                                    "y": -125.96968078613281,
+                                                    "width": 11.00114631652832,
+                                                    "height": 11.403595924377441
+                                                },
+                                                "constraints": {
+                                                    "vertical": "TOP",
+                                                    "horizontal": "LEFT"
+                                                },
+                                                "fills": [
+                                                    {
+                                                        "blendMode": "NORMAL",
+                                                        "type": "SOLID",
+                                                        "color": {
+                                                            "r": 0.8549019694328308,
+                                                            "g": 0.8549019694328308,
+                                                            "b": 0.8549019694328308,
+                                                            "a": 1.0
+                                                        }
+                                                    }
+                                                ],
+                                                "strokes": [],
+                                                "strokeWeight": 0.0,
+                                                "strokeAlign": "CENTER",
+                                                "exportSettings": [],
+                                                "effects": []
+                                            },
+                                            {
+                                                "id": "0:24",
+                                                "name": "Shape",
+                                                "type": "VECTOR",
+                                                "blendMode": "PASS_THROUGH",
+                                                "absoluteBoundingBox": {
+                                                    "x": -237.80323791503906,
+                                                    "y": -119.23683166503906,
+                                                    "width": 54.64712142944336,
+                                                    "height": 32.04531478881836
+                                                },
+                                                "constraints": {
+                                                    "vertical": "TOP",
+                                                    "horizontal": "LEFT"
+                                                },
+                                                "fills": [
+                                                    {
+                                                        "blendMode": "NORMAL",
+                                                        "type": "SOLID",
+                                                        "color": {
+                                                            "r": 1.0,
+                                                            "g": 0.0,
+                                                            "b": 0.0,
+                                                            "a": 1.0
+                                                        }
+                                                    }
+                                                ],
+                                                "strokes": [],
+                                                "strokeWeight": 0.0,
+                                                "strokeAlign": "CENTER",
+                                                "exportSettings": [],
+                                                "effects": []
+                                            }
+                                        ],
+                                        "absoluteBoundingBox": {
+                                            "x": -260.4117736816406,
+                                            "y": -167.49998474121094,
+                                            "width": 98.82353210449219,
+                                            "height": 99.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [
+                                            {
+                                                "blendMode": "NORMAL",
+                                                "type": "SOLID",
+                                                "color": {
+                                                    "r": 1.0,
+                                                    "g": 1.0,
+                                                    "b": 1.0,
+                                                    "a": 1.0
+                                                }
+                                            }
+                                        ],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": []
+                                    }
+                                ],
+                                "absoluteBoundingBox": {
+                                    "x": -371.0,
+                                    "y": -217.0,
+                                    "width": 320.0,
+                                    "height": 198.0
+                                },
+                                "constraints": {
+                                    "vertical": "TOP",
+                                    "horizontal": "LEFT"
+                                },
+                                "clipsContent": false,
+                                "background": [
+                                    {
+                                        "blendMode": "NORMAL",
+                                        "visible": false,
+                                        "type": "SOLID",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "backgroundColor": {
+                                    "r": 0.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.0
+                                },
+                                "exportSettings": [],
+                                "effects": []
+                            },
+                            {
+                                "id": "0:28",
+                                "name": "section-4",
+                                "type": "GROUP",
+                                "blendMode": "PASS_THROUGH",
+                                "children": [
+                                    {
+                                        "id": "0:29",
+                                        "name": "container",
+                                        "type": "RECTANGLE",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -371.0,
+                                            "y": 34.0,
+                                            "width": 320.0,
+                                            "height": 62.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "effects": []
+                                    },
+                                    {
+                                        "id": "0:30",
+                                        "name": "section4-Text",
+                                        "type": "TEXT",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -351.0,
+                                            "y": 34.0,
+                                            "width": 280.0,
+                                            "height": 62.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [
+                                            {
+                                                "blendMode": "NORMAL",
+                                                "type": "SOLID",
+                                                "color": {
+                                                    "r": 1.0,
+                                                    "g": 1.0,
+                                                    "b": 1.0,
+                                                    "a": 1.0
+                                                }
+                                            }
+                                        ],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "effects": [],
+                                        "characters": "Responsive HTML email templates",
+                                        "style": {
+                                            "fontFamily": "ABeeZee",
+                                            "fontPostScriptName": "ABeeZee-Italic",
+                                            "italic": true,
+                                            "fontWeight": 400,
+                                            "fontSize": 24.0,
+                                            "textAlignHorizontal": "CENTER",
+                                            "textAlignVertical": "TOP",
+                                            "letterSpacing": 0.0,
+                                            "lineHeightPx": 31.0,
+                                            "lineHeightPercent": 110.22222137451172,
+                                            "lineHeightPercentFontSize": 129.1666717529297,
+                                            "lineHeightUnit": "PIXELS"
+                                        },
+                                        "characterStyleOverrides": [],
+                                        "styleOverrideTable": {}
+                                    }
+                                ],
+                                "absoluteBoundingBox": {
+                                    "x": -371.0,
+                                    "y": 34.0,
+                                    "width": 320.0,
+                                    "height": 62.0
+                                },
+                                "constraints": {
+                                    "vertical": "TOP",
+                                    "horizontal": "LEFT"
+                                },
+                                "clipsContent": false,
+                                "background": [
+                                    {
+                                        "blendMode": "NORMAL",
+                                        "visible": false,
+                                        "type": "SOLID",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "backgroundColor": {
+                                    "r": 0.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.0
+                                },
+                                "effects": []
+                            },
+                            {
+                                "id": "0:31",
+                                "name": "section-5",
+                                "type": "GROUP",
+                                "blendMode": "PASS_THROUGH",
+                                "children": [
+                                    {
+                                        "id": "0:32",
+                                        "name": "container",
+                                        "type": "RECTANGLE",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -371.0,
+                                            "y": 96.0,
+                                            "width": 320.0,
+                                            "height": 126.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": []
+                                    },
+                                    {
+                                        "id": "0:33",
+                                        "name": "section5-paragraph",
+                                        "type": "TEXT",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -351.0,
+                                            "y": 114.0,
+                                            "width": 280.0,
+                                            "height": 135.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [
+                                            {
+                                                "blendMode": "NORMAL",
+                                                "type": "SOLID",
+                                                "color": {
+                                                    "r": 1.0,
+                                                    "g": 1.0,
+                                                    "b": 1.0,
+                                                    "a": 1.0
+                                                }
+                                            }
+                                        ],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": [],
+                                        "characters": "More than 50% of total email opens occurred on a mobile device \u2014\u2028a mobile-friendly design is a must\u2028for email campaigns.",
+                                        "style": {
+                                            "fontFamily": "ABeeZee",
+                                            "fontPostScriptName": "ABeeZee-Regular",
+                                            "fontWeight": 400,
+                                            "fontSize": 17.0,
+                                            "textAlignHorizontal": "CENTER",
+                                            "textAlignVertical": "TOP",
+                                            "letterSpacing": 0.0,
+                                            "lineHeightPx": 27.0,
+                                            "lineHeightPercent": 135.52940368652344,
+                                            "lineHeightPercentFontSize": 158.8235321044922,
+                                            "lineHeightUnit": "PIXELS"
+                                        },
+                                        "characterStyleOverrides": [],
+                                        "styleOverrideTable": {}
+                                    }
+                                ],
+                                "absoluteBoundingBox": {
+                                    "x": -371.0,
+                                    "y": 96.0,
+                                    "width": 320.0,
+                                    "height": 153.0
+                                },
+                                "constraints": {
+                                    "vertical": "TOP",
+                                    "horizontal": "LEFT"
+                                },
+                                "clipsContent": false,
+                                "background": [
+                                    {
+                                        "blendMode": "NORMAL",
+                                        "visible": false,
+                                        "type": "SOLID",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "backgroundColor": {
+                                    "r": 0.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.0
+                                },
+                                "exportSettings": [],
+                                "effects": []
+                            },
+                            {
+                                "id": "0:34",
+                                "name": "section-6",
+                                "type": "GROUP",
+                                "blendMode": "PASS_THROUGH",
+                                "children": [
+                                    {
+                                        "id": "0:35",
+                                        "name": "container",
+                                        "type": "RECTANGLE",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -356.0,
+                                            "y": 253.0,
+                                            "width": 320.0,
+                                            "height": 71.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": []
+                                    },
+                                    {
+                                        "id": "0:36",
+                                        "name": "section6-button-1",
+                                        "type": "GROUP",
+                                        "blendMode": "PASS_THROUGH",
+                                        "children": [
+                                            {
+                                                "id": "0:37",
+                                                "name": "background",
+                                                "type": "RECTANGLE",
+                                                "blendMode": "PASS_THROUGH",
+                                                "absoluteBoundingBox": {
+                                                    "x": -280.0,
+                                                    "y": 267.0,
+                                                    "width": 169.0,
+                                                    "height": 44.0
+                                                },
+                                                "constraints": {
+                                                    "vertical": "TOP",
+                                                    "horizontal": "LEFT"
+                                                },
+                                                "fills": [
+                                                    {
+                                                        "blendMode": "NORMAL",
+                                                        "type": "SOLID",
+                                                        "color": {
+                                                            "r": 0.9137254953384399,
+                                                            "g": 0.43921568989753723,
+                                                            "b": 0.24313725531101227,
+                                                            "a": 1.0
+                                                        }
+                                                    }
+                                                ],
+                                                "strokes": [],
+                                                "strokeWeight": 0.0,
+                                                "strokeAlign": "CENTER",
+                                                "exportSettings": [],
+                                                "effects": [],
+                                                "cornerRadius": 4.0
+                                            },
+                                            {
+                                                "id": "0:38",
+                                                "name": "Text",
+                                                "type": "TEXT",
+                                                "blendMode": "PASS_THROUGH",
+                                                "absoluteBoundingBox": {
+                                                    "x": -258.0,
+                                                    "y": 279.0,
+                                                    "width": 124.0,
+                                                    "height": 20.0
+                                                },
+                                                "constraints": {
+                                                    "vertical": "TOP",
+                                                    "horizontal": "LEFT"
+                                                },
+                                                "fills": [
+                                                    {
+                                                        "blendMode": "NORMAL",
+                                                        "type": "SOLID",
+                                                        "color": {
+                                                            "r": 1.0,
+                                                            "g": 1.0,
+                                                            "b": 1.0,
+                                                            "a": 1.0
+                                                        }
+                                                    }
+                                                ],
+                                                "strokes": [],
+                                                "strokeWeight": 0.0,
+                                                "strokeAlign": "CENTER",
+                                                "exportSettings": [],
+                                                "effects": [],
+                                                "characters": "View on GitHub",
+                                                "style": {
+                                                    "fontFamily": "ABeeZee",
+                                                    "fontPostScriptName": "ABeeZee-Regular",
+                                                    "fontWeight": 400,
+                                                    "textDecoration": "UNDERLINE",
+                                                    "fontSize": 17.0,
+                                                    "textAlignHorizontal": "CENTER",
+                                                    "textAlignVertical": "TOP",
+                                                    "letterSpacing": 0.0,
+                                                    "lineHeightPx": 19.921875,
+                                                    "lineHeightPercent": 100.0,
+                                                    "lineHeightUnit": "INTRINSIC_%"
+                                                },
+                                                "characterStyleOverrides": [],
+                                                "styleOverrideTable": {}
+                                            }
+                                        ],
+                                        "absoluteBoundingBox": {
+                                            "x": -280.0,
+                                            "y": 267.0,
+                                            "width": 169.0,
+                                            "height": 44.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "clipsContent": false,
+                                        "background": [
+                                            {
+                                                "blendMode": "NORMAL",
+                                                "visible": false,
+                                                "type": "SOLID",
+                                                "color": {
+                                                    "r": 1.0,
+                                                    "g": 1.0,
+                                                    "b": 1.0,
+                                                    "a": 1.0
+                                                }
+                                            }
+                                        ],
+                                        "backgroundColor": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 0.0
+                                        },
+                                        "exportSettings": [],
+                                        "effects": []
+                                    }
+                                ],
+                                "absoluteBoundingBox": {
+                                    "x": -356.0,
+                                    "y": 253.0,
+                                    "width": 320.0,
+                                    "height": 71.0
+                                },
+                                "constraints": {
+                                    "vertical": "TOP",
+                                    "horizontal": "LEFT"
+                                },
+                                "clipsContent": false,
+                                "background": [
+                                    {
+                                        "blendMode": "NORMAL",
+                                        "visible": false,
+                                        "type": "SOLID",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "backgroundColor": {
+                                    "r": 0.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.0
+                                },
+                                "exportSettings": [],
+                                "effects": []
+                            },
+                            {
+                                "id": "0:39",
+                                "name": "section-7",
+                                "type": "GROUP",
+                                "blendMode": "PASS_THROUGH",
+                                "children": [
+                                    {
+                                        "id": "0:40",
+                                        "name": "container",
+                                        "type": "RECTANGLE",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -391.0,
+                                            "y": 293.0,
+                                            "width": 360.0,
+                                            "height": 31.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": []
+                                    },
+                                    {
+                                        "id": "0:41",
+                                        "name": "section7-hrline",
+                                        "type": "RECTANGLE",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -351.0,
+                                            "y": 323.0,
+                                            "width": 280.0,
+                                            "height": 1.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [
+                                            {
+                                                "blendMode": "NORMAL",
+                                                "type": "SOLID",
+                                                "color": {
+                                                    "r": 0.33725491166114807,
+                                                    "g": 0.37254902720451355,
+                                                    "b": 0.45098039507865906,
+                                                    "a": 1.0
+                                                }
+                                            }
+                                        ],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": []
+                                    }
+                                ],
+                                "absoluteBoundingBox": {
+                                    "x": -391.0,
+                                    "y": 293.0,
+                                    "width": 360.0,
+                                    "height": 31.0
+                                },
+                                "constraints": {
+                                    "vertical": "TOP",
+                                    "horizontal": "LEFT"
+                                },
+                                "clipsContent": false,
+                                "background": [
+                                    {
+                                        "blendMode": "NORMAL",
+                                        "visible": false,
+                                        "type": "SOLID",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "backgroundColor": {
+                                    "r": 0.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.0
+                                },
+                                "exportSettings": [],
+                                "effects": []
+                            },
+                            {
+                                "id": "0:42",
+                                "name": "section-8",
+                                "type": "GROUP",
+                                "blendMode": "PASS_THROUGH",
+                                "children": [
+                                    {
+                                        "id": "0:43",
+                                        "name": "container",
+                                        "type": "RECTANGLE",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -391.0,
+                                            "y": 324.0,
+                                            "width": 360.0,
+                                            "height": 112.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": []
+                                    },
+                                    {
+                                        "id": "0:44",
+                                        "name": "section8-Text-1",
+                                        "type": "TEXT",
+                                        "blendMode": "PASS_THROUGH",
+                                        "absoluteBoundingBox": {
+                                            "x": -351.0,
+                                            "y": 335.0,
+                                            "width": 280.0,
+                                            "height": 76.0
+                                        },
+                                        "constraints": {
+                                            "vertical": "TOP",
+                                            "horizontal": "LEFT"
+                                        },
+                                        "fills": [
+                                            {
+                                                "blendMode": "NORMAL",
+                                                "type": "SOLID",
+                                                "color": {
+                                                    "r": 0.5098039507865906,
+                                                    "g": 0.5372549295425415,
+                                                    "b": 0.6000000238418579,
+                                                    "a": 1.0
+                                                }
+                                            }
+                                        ],
+                                        "strokes": [],
+                                        "strokeWeight": 0.0,
+                                        "strokeAlign": "CENTER",
+                                        "exportSettings": [],
+                                        "effects": [],
+                                        "characters": "This email template was sent to you becouse\u2028we want to make the world a better place.\u2028You could change your subscription settings anytime.",
+                                        "style": {
+                                            "fontFamily": "ABeeZee",
+                                            "fontPostScriptName": "ABeeZee-Regular",
+                                            "fontWeight": 400,
+                                            "fontSize": 13.0,
+                                            "textAlignHorizontal": "CENTER",
+                                            "textAlignVertical": "TOP",
+                                            "letterSpacing": 0.0,
+                                            "lineHeightPx": 19.0,
+                                            "lineHeightPercent": 124.71794891357422,
+                                            "lineHeightPercentFontSize": 146.15383911132812,
+                                            "lineHeightUnit": "PIXELS"
+                                        },
+                                        "characterStyleOverrides": [
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            1,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            2,
+                                            3,
+                                            3,
+                                            3,
+                                            3,
+                                            3,
+                                            3,
+                                            3,
+                                            3,
+                                            3
+                                        ],
+                                        "styleOverrideTable": {
+                                            "3": {
+                                                "fontFamily": "ABeeZee",
+                                                "fontPostScriptName": "ABeeZee-Regular",
+                                                "fontWeight": 400
+                                            },
+                                            "2": {
+                                                "fontFamily": "ABeeZee",
+                                                "fontPostScriptName": "ABeeZee-Regular",
+                                                "fontWeight": 400,
+                                                "textDecoration": "UNDERLINE"
+                                            },
+                                            "1": {
+                                                "fontFamily": "ABeeZee",
+                                                "fontPostScriptName": "ABeeZee-Regular",
+                                                "fontWeight": 400
+                                            }
+                                        }
+                                    }
+                                ],
+                                "absoluteBoundingBox": {
+                                    "x": -391.0,
+                                    "y": 324.0,
+                                    "width": 360.0,
+                                    "height": 112.0
+                                },
+                                "constraints": {
+                                    "vertical": "TOP",
+                                    "horizontal": "LEFT"
+                                },
+                                "clipsContent": false,
+                                "background": [
+                                    {
+                                        "blendMode": "NORMAL",
+                                        "visible": false,
+                                        "type": "SOLID",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "backgroundColor": {
+                                    "r": 0.0,
+                                    "g": 0.0,
+                                    "b": 0.0,
+                                    "a": 0.0
+                                },
+                                "exportSettings": [],
+                                "effects": []
+                            }
+                        ],
+                        "absoluteBoundingBox": {
+                            "x": -371.0,
+                            "y": -287.0,
+                            "width": 320.0,
+                            "height": 723.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "clipsContent": true,
+                        "background": [
+                            {
+                                "blendMode": "NORMAL",
+                                "type": "SOLID",
+                                "color": {
+                                    "r": 1.0,
+                                    "g": 1.0,
+                                    "b": 1.0,
+                                    "a": 1.0
+                                }
+                            }
+                        ],
+                        "backgroundColor": {
+                            "r": 1.0,
+                            "g": 1.0,
+                            "b": 1.0,
+                            "a": 1.0
+                        },
+                        "layoutGrids": [],
+                        "exportSettings": [],
+                        "effects": []
+                    }
+                ],
+                "backgroundColor": {
+                    "r": 0.9490196108818054,
+                    "g": 0.9490196108818054,
+                    "b": 0.9490196108818054,
+                    "a": 1.0
+                },
+                "prototypeStartNodeID": null,
+                "exportSettings": []
+            }
+        ]
+    },
+    "components": {},
+    "schemaVersion": 0,
+    "styles": {},
+    "name": "promotional-email-template",
+    "lastModified": "2019-05-02T09:26:02.463702Z",
+    "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/5d42d68b-bfa1-4df9-a722-2817eae31709?Expires=1557705600&Signature=SvNDIKRF3tnLe1hvrPJaxt3tL325bqgqBrVOs2~O91eui3Ji~6obIo9FJwaZUSuaDlHxyZtd1LfIyGRzsQoOutXPJUipWhpTjsJNOK0HYTC78N5g4gNRYlVzm-sxguzOx2WwUNcGa-L0qz7bn~U1J3Ji9VcKYArd3plRK7-vfBQ5nAvrxvVoOUDwcLM0wzjRrYp9zULB2eXRvddgzpxvoSsmSbEYoL~iGiHw~9tyGG-m8DyhzmTyjFRm80jJIpncm~xUtHuiIlhBT2wNHgL-DsIEhiAdBIsjIHG3BSroJCrKhVeqkFQgzDq5JeKP4p15ZT35CX764aI8kOlxqTqE~g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+    "version": "128316934"
+}
