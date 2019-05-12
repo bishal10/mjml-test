@@ -1,0 +1,44 @@
+<mjml>
+  <mj-body>
+    <mj-container background-color="#fce7b4" font-size="13px">
+      <mj-section background-color="#2D3445" padding-bottom="20px" padding-top="20px">
+        <mj-column vertical-align="top" width="90%">
+          <mj-image align="center" border="none" padding-bottom="20px" padding-left="20px" padding-right="20px" padding-top="20px" src="https://helpx.adobe.com/in/stock/how-to/visual-reverse-image-search/_jcr_content/main-pars/image.img.jpg/visual-reverse-image-search-v2_1000x560.jpg" vertical-align="middle" width="150px"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#2D3445" padding-bottom="20px" padding-top="20px">
+        <mj-column vertical-align="top" width="90%">
+          <mj-text align="center" color="#ABCDEA" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px">
+            Responsive HTML email templates
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#2D3445" padding-bottom="20px" padding-top="20px">
+        <mj-column vertical-align="top" width="90%">
+          <mj-text align="center" color="#ABCDEA" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px">
+            More than 50% of total email opens occurred on a mobile device. A mobile-friendly  is a must for email campaigns.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#2D3445" padding-bottom="20px" padding-top="20px">
+        <mj-column vertical-align="top" width="90%">
+          <mj-button align="center" background-color="#E9703E" border-radius="none" border="none" color="#FFFFFF" font-family="Helvetica" font-size="14px" font-weight="bold" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px" padding="15px 30px">
+            View on GitHub
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#2D3445" padding-bottom="20px" padding-top="20px">
+        <mj-column vertical-align="top" width="90%">
+          <mj-divider border-color="#565F73" border-style="solid" border-width="1px" width="75%"></mj-divider>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#2D3445" padding-bottom="20px" padding-top="20px">
+        <mj-column vertical-align="top" width="90%">
+          <mj-text align="center" color="#ABCDEA" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px">
+            This email template was sent to you becouse we want to make the world a better place. You could change your subscription settings anytime.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
