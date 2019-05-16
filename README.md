@@ -1,7 +1,7 @@
 # Figma to mjml conversion
 ## Using Python Script
 
-1. Run python file **pyhtonConversionScript.py** to get **finaljsonoutput.json** file containing the layer details in json format.
+1. Run python file **pyhtonConversionScript.py** to get **finalhtml.html** file containing the layer details in json format.
         
 Python command:
 
@@ -9,11 +9,24 @@ Python command:
     
 2. **Json2mjml** tool can change json to mjml and mjml cli tool can change mjml into the responsive html. 
 
-3. Just for the test you can paste json code to the following link:
+## Output:
+
+1. The Output comes as a **HTML** file named **finalhtml.html**
+
+* Just for the test you can paste json code to the following link:
   
   [Codepen - JSON > MJML > HTML](https://codepen.io/briancsinger/pen/rpYxRJ) 
 
 to get instance output of html.
+
+### NOTE:
+For the convertion to work, installation of **json2mjml** node package is required.
+1. For installation:
+
+	* npm init
+	* npm install -g node-modules
+	* npm i json2mjml
+
 
 
 ## Files
