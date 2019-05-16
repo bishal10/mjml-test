@@ -24,7 +24,9 @@ For the convertion to work, installation of **json2mjml** node package is requir
 1. For installation:
 
 	* npm init
+	
 	* npm install -g node-modules
+	
 	* npm i json2mjml
 
 
