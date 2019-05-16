@@ -19,6 +19,12 @@ Python command:
 
 to get instance output of html.
 
+
+## Files
+* **outputmjml.mjml** contains the mjml tags for the file.
+* **finalhtml.html** contains the corresponding html code of the mjml file.
+
+
 ### NOTE:
 For the convertion to work, installation of **json2mjml** node package is required.
 1. For installation:
@@ -28,9 +34,3 @@ For the convertion to work, installation of **json2mjml** node package is requir
 	* npm install -g node-modules
 	
 	* npm i json2mjml
-
-
-
-## Files
-* **mjml-output.mjml** contains the mjml tags for the file.
-* **html-output.html** contains the corresponding html code of the mjml file.
