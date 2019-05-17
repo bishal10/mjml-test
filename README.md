@@ -26,7 +26,7 @@ to get instance output of html.
 
 
 ### NOTE:
-For the convertion to work, installation of **json2mjml** node package is required.
+For the convertion to work, installation of **json2mjml** node package may be required.
 1. For installation:
 
 	* npm init
