@@ -1,0 +1,29 @@
+<mjml>
+  <mj-body>
+    <mj-container background-color="">
+      <mj-section background-color="#2D3445" padding-bottom="" padding-top="">
+        <mj-column vertical-align="top" width="">
+          <mj-text align="CENTER" color="#ABCDEA" font-family="ABeeZee" font-size="22.0px" padding-bottom="" padding-left="" padding-right="" padding-top="" width="593.0px">
+            Copyright © 2014 YourCompany, All rights reserved. 
+300, 219 - 24st SW, Montreal, Quebec, T4S BD6, Canada
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#2D3445" padding-bottom="" padding-top="">
+        <mj-column vertical-align="top" width="">
+          <mj-text align="LEFT" color="#ABCDEA" font-family="ABeeZee" font-size="22.0px" padding-bottom="" padding-left="" padding-right="" padding-top="" width="161.0px">
+            View in browser
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#2D3445" padding-bottom="" padding-top="">
+        <mj-column vertical-align="top" width="">
+          <mj-text align="LEFT" color="#ABCDEA" font-family="ABeeZee" font-size="30.0px" padding-bottom="" padding-left="" padding-right="" padding-top="" width="163.0px">
+            Try it today
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
